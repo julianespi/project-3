@@ -21,3 +21,8 @@ Open the [newly generated site][2].
 # Data
 
 The data (\_data) supplied here for templating come from Pexels. Stock photos are widely used as visual elements in advertising and website design and Pexels is a website offering freely-usable stock photos through its curated collections of photos. If you want to generate your own Pexel photos, you'll need an API key in the `.env` file.
+
+team member:
+Julian Espinoza
+Karen Rosales
+Alan Codling
